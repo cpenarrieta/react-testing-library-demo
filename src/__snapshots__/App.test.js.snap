@@ -1,0 +1,55 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders without crashing 1`] = `
+<DocumentFragment>
+  <div
+    class="App"
+  >
+    <header
+      class="App-header"
+    >
+      <h1>
+        Learning react-testing-library
+      </h1>
+      <img
+        alt="logo"
+        class="App-logo"
+        src="logo.svg"
+      />
+      <p
+        data-testid="counter-test-id"
+      >
+        Current counter: 0
+      </p>
+      <div
+        class="flex-row"
+      >
+        <button
+          class="main-button"
+        >
+          +
+        </button>
+        <button
+          class="main-button"
+        >
+          -
+        </button>
+      </div>
+      <div
+        class="flex-row"
+      >
+        <button
+          class="main-button"
+        >
+          + Async
+        </button>
+        <button
+          class="main-button"
+        >
+          - Async
+        </button>
+      </div>
+    </header>
+  </div>
+</DocumentFragment>
+`;

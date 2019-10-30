@@ -20,3 +20,17 @@
 .App-link {
   color: #09d3ac;
 }
+
+.flex-row {
+  display: flex;
+  flex-direction: row;
+}
+
+.flex-column {
+  display: flex;
+  flex-direction: row;
+}
+
+.main-button {
+  font-size: 22px;
+}
